@@ -14,12 +14,11 @@
         android:orientation="vertical"
         android:paddingLeft="16dp"
         android:paddingRight="16dp"
-        android:paddingTop="16dp">
+        android:paddingTop="20dp">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="16dp"
             android:text="Description"
             android:textColor="?attr/colorAccent" />
 
@@ -27,13 +26,12 @@
             android:id="@+id/deskripsi"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_margin="@dimen/fab_margin"
+            android:paddingBottom="16dp"
             android:text="Hello blank fragment!" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="16dp"
             android:text="Release Date"
             android:textColor="?attr/colorAccent" />
 
@@ -41,13 +39,12 @@
             android:id="@+id/tanggal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_margin="@dimen/fab_margin"
+            android:paddingBottom="16dp"
             android:text="Hello blank fragment!" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="16dp"
             android:text="Popularity"
             android:textColor="?attr/colorAccent" />
 
@@ -55,13 +52,12 @@
             android:id="@+id/popularitas"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_margin="@dimen/fab_margin"
+            android:paddingBottom="16dp"
             android:text="Hello blank fragment!" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="16dp"
             android:text="Vote Count"
             android:textColor="?attr/colorAccent" />
 
@@ -69,7 +65,7 @@
             android:id="@+id/vote_count"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_margin="@dimen/fab_margin"
+            android:paddingBottom="16dp"
             android:text="Hello blank fragment!" />
 
     </LinearLayout>
