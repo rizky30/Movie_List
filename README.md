@@ -2,18 +2,18 @@
 
 Link
 
-Nama            : Muhammad Rizky Ajie Soelistyo.
-Kelas / No Urut : XI RPL 6 / 24.
-NIS             : 4772/1419.070.
-Angkatan        : 24.
-Nama Sekolah    : SMK Telkom Malang.
+Nama            : Muhammad Rizky Ajie Soelistyo.<br>
+Kelas / No Urut : XI RPL 6 / 24.<br>
+NIS             : 4772/1419.070.<br>
+Angkatan        : 24.<br>
+Nama Sekolah    : SMK Telkom Malang.<br>
 
-Link API        : https://www.themoviedb.org/u/Muhammad%20Rizky
-Jenis Navigasi  : Navigation Drawer
-Library LocalDB : 
+Link API        : https://www.themoviedb.org/u/Muhammad%20Rizky<br>
+Jenis Navigasi  : Navigation Drawer<br>
+Library LocalDB : <br>
 
-Movie List
-Merupakan sebuah Aplikasi yang menyajikan berbagai macam film yang sedang tayang di Bioskop seluruh dunia. Dengan Data yang up to date, sehingga kita bisa mengetahui data terkini tentang film yang sedang tayang. Data yang disajikan lengkap dan dengan UI yang nyaman di mata pengguna.
+Movie List<br>
+Merupakan sebuah Aplikasi yang menyajikan berbagai macam film yang sedang tayang di Bioskop seluruh dunia. Dengan Data yang up to date, sehingga kita bisa mengetahui data terkini tentang film yang sedang tayang. Data yang disajikan lengkap dan dengan UI yang nyaman di mata pengguna.<br>
 
 Kelebihan Aplikasi :
 - UI yang nyaman
