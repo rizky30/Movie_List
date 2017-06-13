@@ -10,7 +10,7 @@ Nama Sekolah    : SMK Telkom Malang.<br>
 
 Link API        : https://www.themoviedb.org/u/Muhammad%20Rizky<br>
 Jenis Navigasi  : Navigation Drawer<br>
-Library LocalDB : <br>
+Library LocalDB : SQLite Dasar<br>
 
 Movie List<br>
 Merupakan sebuah Aplikasi yang menyajikan berbagai macam film yang sedang tayang di Bioskop seluruh dunia. Dengan Data yang up to date, sehingga kita bisa mengetahui data terkini tentang film yang sedang tayang. Data yang disajikan lengkap dan dengan UI yang nyaman di mata pengguna.<br>
