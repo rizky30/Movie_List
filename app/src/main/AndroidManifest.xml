@@ -21,10 +21,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="id.sch.smktelkom_mlg.privateassignment.xirpl624.movie_list.DetailActivity"
-            android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".addnoteActivty">
         </activity>
+        <activity
+            android:name=".DetailActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".aboutActivity"></activity>
     </application>
 
 </manifest>

@@ -1,5 +1,6 @@
 package id.sch.smktelkom_mlg.privateassignment.xirpl624.movie_list;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -43,6 +44,9 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.nav_camera) {
             fragment = new HomeFragment();
             setTitle("Now Playing");
+        } else if (id == R.id.nav_note) {
+            fragment = new Note_list();
+            setTitle("Note");
         }
 
         getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment).commitNow();
@@ -76,7 +80,8 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+        if (id == R.id.action_about) {
+            startActivity(new Intent(this, aboutActivity.class));
             return true;
         }
 
