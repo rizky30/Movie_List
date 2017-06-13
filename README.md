@@ -29,6 +29,10 @@ Berikut ScreenShot dari Aplikasi :
 
 ![3](https://user-images.githubusercontent.com/22115607/27068366-002ac380-503a-11e7-93ca-858a590cd528.PNG)
 
-![4](https://user-images.githubusercontent.com/22115607/27068368-002cfd58-503a-11e7-93f2-ca4cae565e5f.PNG)
+![4](https://user-images.githubusercontent.com/22115607/27073873-8c286f4e-504f-11e7-8a53-9752188379e3.PNG)
 
 ![5](https://user-images.githubusercontent.com/22115607/27068369-01163bf8-503a-11e7-867f-5df0ce6fd6bc.PNG)
+
+![6](https://user-images.githubusercontent.com/22115607/27073874-8c2b7e64-504f-11e7-88e9-20300f94f488.PNG)
+
+![7](https://user-images.githubusercontent.com/22115607/27073872-8c1be51c-504f-11e7-8ce4-4727a1e35349.PNG)
