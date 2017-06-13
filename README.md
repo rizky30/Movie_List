@@ -1,6 +1,6 @@
 # Movie_List
 
-Link
+Link Aplikasi : https://drive.google.com/open?id=0B8uSMw7GCF3fYU8ySm5fZzJSOTQ
 
 Nama            : Muhammad Rizky Ajie Soelistyo.<br>
 Kelas / No Urut : XI RPL 6 / 24.<br>
